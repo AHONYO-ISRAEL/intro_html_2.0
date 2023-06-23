@@ -2,6 +2,9 @@
 * {
     font-family: Agency FB;
 }
+body{
+    overflow-x: hidden;
+}
 
 li {
     list-style-type: none;
